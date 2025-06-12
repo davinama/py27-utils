@@ -1,0 +1,4 @@
+natsort
+Pillow
+chardet
+xpinyin
